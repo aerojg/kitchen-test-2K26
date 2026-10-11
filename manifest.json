@@ -1,0 +1,16 @@
+{
+  "name": "이지쉐프",
+  "short_name": "이지쉐프",
+  "description": "혼자 사는 시니어를 위한 쉬운 요리 안내 앱",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1F1F23",
+  "theme_color": "#1F1F23",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
