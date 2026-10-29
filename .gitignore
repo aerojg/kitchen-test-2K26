@@ -1,0 +1,22 @@
+# 비밀과 개인정보가 저장소에 올라가지 않도록 막는 목록
+.env
+.env.*
+*.key
+*.pem
+*.p12
+secrets*
+*.secret
+
+# 운영체제와 편집기 임시 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+
+# 개인 작업 폴더(영상 원본, 녹화, 개인 백업 등은 저장소에 올리지 않는다)
+*.mp4
+*.mov
+*.mp3
+*.wav
+*_백업*
+*_backup*
