@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 aerojg. All rights reserved. See LICENSE. */
 // 이지쉐프 오프라인용 서비스 워커
 // 앱을 고쳐서 새로 올릴 때마다 아래 버전 번호를 하나씩 올립니다. (예: v1 -> v2)
 const VERSION = 'v1';
